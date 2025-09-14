@@ -1,8 +1,8 @@
-# JavaServer
-Basic java Server and Client
+# Java Server
+Basic Java Server and Client
 
 ## Description
-This project creates a server that a client can connect to. When a client connects, the server sends back three random cards from a predefined list, then disconnects.
+This project creates a server that a client can connect to. When a client connects, the server sends back three random cards from a list, then disconnects.
 
 ## How to Run
 
