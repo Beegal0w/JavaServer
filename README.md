@@ -1,6 +1,9 @@
 # JavaServer
 Basic java Server and Client
 
+## Description
+This project creates a server that a client can connect to. When a client connects, the server sends back three random cards from a predefined list, then disconnects.
+
 ## How to Run
 
 1. Open two terminals and navigate to the folder containing the Java files.
@@ -13,4 +16,4 @@ javac TarotCardClient.java
 java TarotCardServer [port] (default port is 21540)
 
 4. Run the client:
-java TarotCardClient [server_ip] [port] (default server_ip is localhost, default port is 21540t
+java TarotCardClient [server_ip] [port] (default server_ip is localhost, default port is 21540)
