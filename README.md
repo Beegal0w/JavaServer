@@ -13,7 +13,7 @@ javac TarotCardServer.java
 javac TarotCardClient.java
 
 3. Start the server:
-java TarotCardServer [port] (default port is 21540)
+run 'java TarotCardServer [port]' (default port is 21540)
 
 4. Run the client:
-java TarotCardClient [server_ip] [port] (default server_ip is localhost, default port is 21540)
+On another terminal, run 'java TarotCardClient [server_ip] [port]' (default server_ip is localhost, default port is 21540)
